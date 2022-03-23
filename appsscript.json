@@ -1,0 +1,6 @@
+{
+  "timeZone": "America/Indiana/Tell_City",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "chat": {}
+}
